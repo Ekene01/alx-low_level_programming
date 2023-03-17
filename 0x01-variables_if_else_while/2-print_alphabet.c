@@ -5,10 +5,12 @@
 */
 int main()
 {
-for(int x = 'a'; x <= 'z'; x++)
+char alphabets[26] = "abcdefghijklmnopqrstuvwxyz";
+int i;
+for(i = 0; i < 26; i++)
 {
-char small = x;
-putchar(small);
+  putchar(alphabets[i]);
 }
+putchar('\n');
 return 0;
 }
