@@ -2,7 +2,8 @@
 /**
 * main - A program that prints the alphabets from a-z except chars e and q
 * Return: 0 (Success)
-*/int main(void)
+*/
+int main(void)
 {
 int i;
 for (i = 97; i < 123; i++)
