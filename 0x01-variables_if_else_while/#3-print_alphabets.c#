@@ -2,8 +2,7 @@
 /**
 * main - A program that prints the alphabets from a-z and A-Z using putchar
 * Return: 0 (Success)
-*/
-int main(void)
+*/int main(void)
 {
 char i;
 for (i = 'a'; i <= 'z'; i++)
@@ -16,6 +15,6 @@ for (i = 'A'; i <= 'Z'; i++)
 char small = i;
 putchar(small);
 }
-putchar('\n') 
+
 return (0);
 }
