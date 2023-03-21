@@ -2,7 +2,8 @@
 /**
 * add- Function to add two integers and return the result
 *
-* int @a & @b
+* @a: The first number to be computed
+* @b: The second number to be computed
 *
 * Return: Always 0
 */
