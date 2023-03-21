@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* print_sign- Shows 1 if the integer is greater than 0, 0 if integer is 0 
+* print_sign- Shows 1 if the integer is greater than 0, 0 if integer is 0
 * and -1 if integer is less than 0
 *
 * @n: The integer
