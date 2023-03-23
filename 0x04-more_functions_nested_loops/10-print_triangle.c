@@ -11,6 +11,8 @@ if (size <= 0)
 {
 _putchar('\n');
 }
+else
+{
 for (row = 0; row <= size; row++)
 {
 for (spaces = size - row; spaces >= 1; spaces--)
