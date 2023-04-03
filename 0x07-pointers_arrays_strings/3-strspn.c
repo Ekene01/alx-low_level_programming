@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * _strspn - A function to get length of substring
  * @s: The string we are searching
